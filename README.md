@@ -9,6 +9,7 @@ Different pagination can switch.
 # Require Set up
 
 - Node.js
+- Nodemon 2.0.13
 - Express 4.17.1
 - Express-handlebars 5.3.4
 - Bootstrap 4.6.0
